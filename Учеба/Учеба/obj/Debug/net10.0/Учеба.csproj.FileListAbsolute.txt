@@ -1,0 +1,15 @@
+C:\Users\qivoo\source\repos\Учеба\Учеба\obj\Debug\net10.0\Учеба.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qivoo\source\repos\Учеба\Учеба\obj\Debug\net10.0\Учеба.AssemblyInfoInputs.cache
+C:\Users\qivoo\source\repos\Учеба\Учеба\obj\Debug\net10.0\Учеба.AssemblyInfo.cs
+C:\Users\qivoo\source\repos\Учеба\Учеба\obj\Debug\net10.0\Учеба.csproj.CoreCompileInputs.cache
+C:\Users\qivoo\source\repos\Учеба\Учеба\bin\Debug\net10.0\Учеба.exe
+C:\Users\qivoo\source\repos\Учеба\Учеба\bin\Debug\net10.0\Учеба.deps.json
+C:\Users\qivoo\source\repos\Учеба\Учеба\bin\Debug\net10.0\Учеба.runtimeconfig.json
+C:\Users\qivoo\source\repos\Учеба\Учеба\bin\Debug\net10.0\Учеба.dll
+C:\Users\qivoo\source\repos\Учеба\Учеба\bin\Debug\net10.0\Учеба.pdb
+C:\Users\qivoo\source\repos\Учеба\Учеба\obj\Debug\net10.0\Учеба.dll
+C:\Users\qivoo\source\repos\Учеба\Учеба\obj\Debug\net10.0\refint\Учеба.dll
+C:\Users\qivoo\source\repos\Учеба\Учеба\obj\Debug\net10.0\Учеба.pdb
+C:\Users\qivoo\source\repos\Учеба\Учеба\obj\Debug\net10.0\Учеба.genruntimeconfig.cache
+C:\Users\qivoo\source\repos\Учеба\Учеба\obj\Debug\net10.0\ref\Учеба.dll
+C:\Users\qivoo\source\repos\Учеба\Учеба\obj\Debug\net10.0\Учеба.sourcelink.json
